@@ -13,5 +13,4 @@ public class BbsCMD {
 	@Size(min=4,max=100,message="내용은 4~100자 입력가능합니다!")
 	private String bcontent; //내용
 	
-	private String modify;
 }
