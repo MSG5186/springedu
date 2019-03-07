@@ -2,10 +2,10 @@
 
 사용 기술
 
-* spring tool
+* Spring Tool
 * MyBatis
-* ~~~
-* ~~~
+* Ajax
+* Bootstrap
 * ~~~
 
 구현 목록
