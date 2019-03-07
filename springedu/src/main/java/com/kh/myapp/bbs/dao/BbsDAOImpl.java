@@ -24,7 +24,7 @@ public class BbsDAOImpl implements BbsDAO {
 	@Inject
 	JdbcTemplate jdbcTemplate;
 	
-	// 글쓰기
+	// 글쓰기!
 	@Override
 	public int write(BbsDTO bbsDTO) throws Exception {
 
